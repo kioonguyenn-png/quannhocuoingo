@@ -65,7 +65,8 @@ Mẫu comment ghim:
 
 ## Cách làm việc
 
-- `/lo-reel`: viết lô reel tuần.
+- `/tao-21-reel` + dán đoạn sách: rút ý đắt và viết trọn 21 reel một tuần. Cách chính.
+- `/lo-reel`: viết hoặc viết lại một khung giờ (7 reel).
 - `/doc-so-lieu`: đọc số liệu cuối tuần.
 - Viết xong luôn gọi agent `bien-tap-vien` duyệt trước khi đưa Kioo xem.
 - Không tự đăng. Kioo duyệt từng reel.
